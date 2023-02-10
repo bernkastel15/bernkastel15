@@ -12,7 +12,7 @@ I’m aiming towards full-stack software engineer.
 
 
 ### Github Stats
-![Profile views](https://gpvc.arturio.dev/redpangilinan)<br>
+![](https://komarev.com/ghpvc/?username=redpangilinan&style=flat)<br>
 [![redpangilinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=redpangilinan)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redpangilinan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=redpangilinan)](https://git.io/streak-stats)
