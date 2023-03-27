@@ -8,7 +8,7 @@ I’m aiming towards full-stack software engineer.
 - Bernkastel#6861
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,cs,mysql,scss,jquery,bootstrap,git,react,nodejs&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,java,cs,mysql,scss,bootstrap,tailwind,git,jquery,react,nodejs,ts&perline=8)](https://skillicons.dev)
 
 
 ### Github Stats
