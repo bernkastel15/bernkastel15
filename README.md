@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Red Pangilinan
 
-I’m aiming towards full-stack software engineer.
+A passionate and highly motivated full-stack developer, continuously exploring and learning cutting-edge technologies, with a focus on delivering performant applications
 
 ### Contact me
 - [Twitter](https://twitter.com/_rdev7)
