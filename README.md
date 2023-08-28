@@ -8,7 +8,7 @@ A passionate and highly motivated full-stack developer, continuously exploring a
 - Bernkastel#6861
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,mysql,postgresql,scss,bootstrap,tailwind,git,jquery,react,nodejs,express&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cs,mysql,postgresql,scss,bootstrap,tailwind,git,jquery,react,nodejs,express,next,prisma,laravel,django,vercel,planetscale,vscode&perline=9)](https://skillicons.dev)
 
 
 ### Github Stats
